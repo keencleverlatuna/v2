@@ -1,6 +1,6 @@
-# Melody
+# v2
 
-Melody is a Flutter-based music player and streaming application.
+v2 is a Flutter-based music player and streaming application.
 
 ## Features
 
