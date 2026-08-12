@@ -1,0 +1,41 @@
+V2 MINIMAL iOS REDESIGN
+
+Updated screens:
+- Home
+- Radio
+- Library
+- Search
+- Profile
+
+Profile notes:
+- Uses one fixed Person avatar icon
+- Tap the avatar to change its color
+- Edit Profile changes the listener name
+
+Also retained and checked:
+- Liquid Glass searchable bottom tab bar
+- audioplayers asset playback
+- AnimatedPositioned music play bar
+- ScrollController compact mode at offset > 50
+- Music importing from system files
+- Background playback through audio_service
+- Music Library features
+- Gradient containers
+
+INSTALLATION
+
+1. Close the running Flutter app.
+2. Extract this ZIP.
+3. Copy the included lib folder.
+4. Paste it into:
+
+   C:\Users\User\StudioProjects\v2
+
+5. Choose Replace the files in the destination.
+6. From the V2 project root, run:
+
+   flutter clean
+   flutter pub get
+   flutter run
+
+Your existing assets folder does not need to be replaced.
